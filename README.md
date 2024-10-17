@@ -1,5 +1,5 @@
 <b>Apple Stock Data Analysis</b><br>
-This repository contains Python code for performing basic statistical analysis on historical Apple stock data. The project leverages popular data analysis libraries like Pandas and Numpy to calculate essential metrics including mean, median, mode, and standard deviation of the stock's closing prices. The Apple stock dataset used in this project is sourced from Kaggle.
+This file contains Python code for performing basic statistical analysis on historical Apple stock data. The project leverages popular data analysis libraries like Pandas and Numpy to calculate essential metrics including mean, median, mode, and standard deviation of the stock's closing prices. The Apple stock dataset used in this project is sourced from Kaggle.
 <hr>
 Features:
 <br>
