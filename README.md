@@ -3,6 +3,7 @@
 This repository contains a series of coding exercises focused on data analysis, manipulation, and visualization using Python's powerful libraries, including Pandas, Numpy, Matplotlib, and Seaborn. These exercises utilize real-world datasets to demonstrate fundamental to advanced operations, statistical computations, and various types of plots for insights and comparisons.
 <hr>
 Exercises:<br>
+
 <b>1. Apple Stock Data Analysis</b><br>
 Dataset: Apple Stock Price data (sourced from Kaggle).<br>
 Operations: Calculation of statistical measures such as mean, median, mode, and standard deviation on closing prices.<br>
